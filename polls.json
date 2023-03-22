@@ -1,0 +1,110 @@
+{
+    "polls": [
+        {
+            "id": "1231234",
+            "question": "Would you like FREE snacks on the university campus?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "isMultiple": false,
+            "createdAt": "2023-01-04",
+            "deadline": "2024-12-12",
+            "answers": {
+                "Yes": 13,
+                "No": 2
+            },
+            "voted": [
+                "jafarov",
+                "vugar",
+                "admin"
+            ]
+        },
+        {
+            "id": "213421",
+            "question": "What kind of snacks would you like?",
+            "options": [
+                "Potato chips",
+                "Peanuts",
+                "Chocolate bars",
+                "Cookies"
+            ],
+            "isMultiple": true,
+            "createdAt": "2023-01-08",
+            "deadline": "2023-12-13",
+            "answers": {
+                "Potato chips": 8,
+                "Peanuts": 3,
+                "Chocolate bars": 5,
+                "Cookies": 6
+            },
+            "voted": [
+                "userid1",
+                "userid2",
+                "bayram",
+                "jafarov",
+                "murad",
+                "vugar"
+            ]
+        },
+        {
+            "id": "63c4af5704f8a",
+            "question": "Who was the best player?",
+            "options": [
+                "Ronaldo",
+                "Messi",
+                "Makhlug"
+            ],
+            "isMultiple": true,
+            "createdAt": "2023-01-11",
+            "deadline": "2023-01-12",
+            "answers": {
+                "Makhlug": 3,
+                "Messi": 1,
+                "Ronaldo": 1
+            },
+            "voted": [
+                "jafarov",
+                "murad",
+                "bayram",
+                "vugar",
+                "admin"
+            ]
+        },
+        {
+            "id": "63c4af70f38e6",
+            "question": "What the dog doin?",
+            "options": [
+                "Nothing",
+                "Sus things",
+                "Nothing!"
+            ],
+            "isMultiple": true,
+            "createdAt": "2023-01-13",
+            "deadline": "2023-01-14 ",
+            "answers": {
+                "Sus things": 2,
+                "Nothing!": 1
+            },
+            "voted": [
+                "bayram",
+                "vugar",
+                "admin"
+            ]
+        },
+        {
+            "id": "63c4b1417a8e8",
+            "question": "Where is the cat?",
+            "options": [
+                "Under TV?",
+                "Over you.",
+                "In the fridge."
+            ],
+            "isMultiple": false,
+            "createdAt": "2023-01-16",
+            "deadline": "2023-03-29",
+            "answers": [],
+            "voted": []
+        }
+    ]
+}

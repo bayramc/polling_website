@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
+  body {
+    background-color: rgb(97, 97, 170);
+  }
+
+  form {
+    text-align: center;
+    margin: auto;
+    width: 200px;
+    border: 3px solid white;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+  }
+
+  input[type=text], input[type=password], input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 4px;
+    border: 1px solid rgb(0, 0, 0);
+  }
+
+
+  input[type=submit] {
+    width: 100%;
+    background-color: lightblue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+   
+  }
+
+  input[type=submit]:hover {
+    background-color: rgb(48, 48, 104);
+  }
+
+  
+  .error {
+    color: red;
+  }
+
+  h1{
+    text-align: center;
+    align-content: center;
+    color: rgb(206, 204, 252);
+  }
+
+  #active-polls {
+    background-color: white;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+  }
+  
+  #inactive-polls {
+    background-color: rgb(191, 170, 204);
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    border-bottom-left-radius: 25px;
+    
+    border-bottom-right-radius: 25px;
+  }
+  
+  a{
+    text-decoration: underline;
+    color: rgb(207, 53, 191);
+  }
+
+  .lilac-box {
+    background-color: #9b59b6;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+  li{
+    list-style: none;
+  }
+  ul{
+    padding: 0;
+    
+  }
+  

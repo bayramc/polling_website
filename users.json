@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "id": "63c35b32e6966",
+            "username": "admin",
+            "password": "admin",
+            "email": "admin@gmail.com",
+            "isAdmin": true
+        },
+        {
+            "id": "63c35a5cf35ff",
+            "username": "jafarov",
+            "password": "jafarov",
+            "email": "jafarov@gmail.com",
+            "isAdmin": false
+        },
+        {
+            "id": "63c35a83db406",
+            "username": "bayram",
+            "password": "bayram",
+            "email": "bayram@gmail.com",
+            "isAdmin": false
+        },
+        {
+            "id": "63c35ae1bf5e1",
+            "username": "vugar",
+            "password": "vugar",
+            "email": "vugar@gmail.com",
+            "isAdmin": false
+        },
+        {
+            "id": "63c35b32b6966",
+            "username": "murad",
+            "password": "murad",
+            "email": "murad@gmail.com",
+            "isAdmin": false
+        }
+    ]
+}
